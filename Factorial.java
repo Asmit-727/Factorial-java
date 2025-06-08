@@ -1,5 +1,5 @@
 //This is done using simple recursion method.
-
+//This is for Fun
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
